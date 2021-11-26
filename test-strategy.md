@@ -27,3 +27,4 @@ const lowOrHi = document.querySelector('.lowOrHi');//no esta declarado la clase 
 
   guessSubmit.addEventListener('click', checkGuess);//el método no se llamó correctamente
   resetButton.addEventListener('click', resetGame);// em método no está declarado correctamente
+*
